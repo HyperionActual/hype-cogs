@@ -1,0 +1,9 @@
+{
+    "name": "hype-cogs",
+    "short": "Cogs for Hyperion's Redbot",
+    "description": "Cogs for Hyperion's Redbot",
+    "install_msg": "Have fun!",
+    "author": [
+        "Hyperion"
+    ]
+}
